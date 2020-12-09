@@ -1,11 +1,16 @@
-Branching and Merging
-The Git feature that really makes it stand apart from nearly every other SCM out there is its branching model.
+Etymology
+Main article: Names of Bengal
+The exact origin of the word Bangla is unknown, though it is believed to come from "Vanga", an ancient kingdom and geopolitical division on the Ganges delta in the 
+Indian subcontinent. It was located in southern Bengal, with the core region including present-day southern West Bengal (India) and southwestern Bangladesh. In Islamic 
+tradition, it is said to come from "Bung/Bang", a son of Hind (the son of Hām, who was a son of Noah) who colonised the area for the first time.[30] The suffix "al" came 
+to be added to it from the fact that the ancient rajas of this land raised mounds of earth 10 feet high and 20 in breadth in lowlands at the foot of the hills which were 
+called "al". From this suffix added to the Bung, the name Bengal arose and gained currency".[31][32] Support for this view is found in Ghulam Husain Salim's Riyaz-us-Salatin.[30]
 
-Git allows and encourages you to have multiple local branches that can be entirely independent of each other. The creation, merging, and deletion of those lines of development takes seconds.
+Other theories point to a Bronze Age proto-Dravidian tribe,[33] the Austric word "Bonga" (Sun god),[34][self-published source?] and the Iron Age Vanga Kingdom.[34] The Indo-Aryan 
+suffix Desh is derived from the Sanskrit word deśha, which means "land" or "country". Hence, the name Bangladesh means "Land of Bengal" or "Country of Bengal".[35]
 
-This means that you can do things like:
-
-Frictionless Context Switching. Create a branch to try out an idea, commit a few times, switch back to where you branched from, apply a patch, switch back to where you are experimenting, and merge it in.
-Role-Based Codelines. Have a branch that always contains only what goes to production, another that you merge work into for testing, and several smaller ones for day to day work.
-Feature Based Workflow. Create new branches for each new feature you're working on so you can seamlessly switch back and forth between them, then delete each branch when that feature gets merged into your main line.
-Disposable Experimentation. Create a branch to experiment in, realize it's not going to work, and just delete it - abandoning the work—with nobody else ever seeing it (even if you've pushed other branches in the meantime).
+The term Bangla denotes both the Bengal region and the Bengali language. The earliest known usage of the term is the Nesari plate in 805 AD. The term Vangaladesa is 
+found in 11th-century South Indian records.[35][36] The term gained official status during the Sultanate of Bengal in the 14th century.[37][38] Shamsuddin Ilyas Shah 
+proclaimed himself as the first "Shah of Bangala" in 1342.[37] The word Bangla became the most common name for the region during the Islamic period. The Portuguese referred 
+to the region as Bengala in the 16th century.[39] The term Bangladesh was often written as two words, Bangla Desh, in the past. Starting in the 1950s, Bengali nationalists used 
+the term in political rallies in East Pakistan.
